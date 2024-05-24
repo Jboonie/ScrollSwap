@@ -1,0 +1,1 @@
+This is a script to introduce weapon scrolling in games like vRising where scroll swap does not exist.
